@@ -5,9 +5,9 @@
 Variable names should be all lowercase and separated by underscores (ex. `int number_of_wheels`).
 
 In addition, the following prefixes should be used:
-`m_` for member variables
-`s_` for static variables
-`g_` for global variables
+- `m_` for member variables
+- `s_` for static variables
+- `g_` for global variables
 
 Note that function parameters have no special prefix.
 
