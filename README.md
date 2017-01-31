@@ -2,6 +2,8 @@
 
 ## Naming Conventions
 
+Class and struct names should be `CamelCase`.
+
 Variable and function names should be all lowercase and separated by underscores (ex. `int number_of_wheels`).
 
 In addition, the following prefixes should be used:
