@@ -2,7 +2,7 @@
 
 ## Naming Conventions
 
-Variable names should be all lowercase and separated by underscores (ex. `int number_of_wheels`).
+Variable and function names should be all lowercase and separated by underscores (ex. `int number_of_wheels`).
 
 In addition, the following prefixes should be used:
 - `m_` for member variables
@@ -13,7 +13,17 @@ Note that function parameters have no special prefix.
 
 Use `ALL_CAPS` for macro and `enum` fields only - *not* constants.
 
-Namespaces should also be all lowercase and separated by underscores.
+Example:
+```cpp
+enum class ErrorCode
+{
+  ERROR_OUT_OF_MEMORY,
+  ERROR_BAD_PATH,
+  // ...
+}
+```
+
+Namespaces should also be all lowercase and separated by underscores (ex. `namespace graphics`).
 
 ## Modifiers
 
