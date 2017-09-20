@@ -1,4 +1,4 @@
-# Spectrum C++ Style Guide
+# Plume C++ Style Guide
 
 ## Naming Conventions
 
