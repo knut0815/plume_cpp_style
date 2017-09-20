@@ -1,5 +1,7 @@
 # Plume C++ Style Guide
 
+![Logo](https://github.com/mwalczyk/VulkanToolkit/blob/master/logo.png)
+
 ## Naming Conventions
 
 Class and struct names should be `CamelCase`.
