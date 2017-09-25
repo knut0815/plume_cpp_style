@@ -1,6 +1,8 @@
 # Plume C++ Style Guide
 
-![Logo](https://github.com/mwalczyk/VulkanToolkit/blob/master/logo.png)
+<p align="center">
+  <img src="https://github.com/mwalczyk/VulkanToolkit/blob/master/logo.svg" alt="plume logo" width="400" height="auto"/>
+</p>
 
 ## Naming Conventions
 
